@@ -1,0 +1,10 @@
+
+.vs/appDeploy/config/
+
+.vs/appDeploy/v16/
+
+bin/
+
+obj/Debug/
+
+packages/
